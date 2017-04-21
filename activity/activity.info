@@ -1,0 +1,9 @@
+[Activity]
+name = Update
+bundle_id = org.laptop.UpdateActivity
+class = updateactivity.UpdateActivity
+icon = activity-update
+activity_version = 1
+show_launcher = yes
+license = GPLv3
+update_url = http://wiki.sugarlabs.org/go/Activities/Update
